@@ -1,0 +1,3 @@
+service { 'ntpd':
+  ensure => stopped,
+}
